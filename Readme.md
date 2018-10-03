@@ -5,6 +5,7 @@ Usage:
 ------
 ```
 pip install -r requirement.txt
+python main.py
 ```
 
 How to use?
