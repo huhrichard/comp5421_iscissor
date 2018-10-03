@@ -3,9 +3,11 @@
 
 Usage:
 ------
+'''shell
 cd bin
 source activate
 python main.py
+'''
 
 How to use?
 -----------
