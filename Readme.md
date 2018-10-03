@@ -11,19 +11,18 @@ How to use?
 -----------
 ### Load Image
 
-Click 'open file’ and select image file from file browser
+> Click 'open file’ and select image file from file browser
 
 ### Draw Contour
 
+> Click 'Draw Contour’ and use mouse to click on image, 'red cross’ will be shown as marker of your click
 
-Click 'Draw Contour’ and use mouse to click on image, 'red cross’ will be shown as marker of your click
+> Minimum Spanning Tree will be built, contour (shortest path) will be shown following your cursor
 
-Minimum Spanning Tree will be built, contour (shortest path) will be shown following your cursor
-
-Triple click to stop drawing
+> Triple click to stop drawing
 
 ### Finish the contour
 
-Click 'Crop Image’ after stopped drawing 
-The contour will be completed by finding shortest path from the last click to the first click
+> Click 'Crop Image’ after stopped drawing 
+> The contour will be completed by finding shortest path from the last click to the first click
 
