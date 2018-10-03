@@ -4,9 +4,7 @@
 Usage:
 ------
 ```
-cd bin
-source activate
-python main.py
+pip install -r requirement.txt
 ```
 
 How to use?
